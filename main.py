@@ -3,7 +3,7 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes, CallbackContext
 
 
-TOKEN: Final = '7207956256:AAHkznVB8hJlatz76qm-WwtoxE2-IeByBhc'
+TOKEN: Final = #The bot link ..... Hidden for security
 BOT_USERNAME: Final = '@SE20_SE20_bot'
 
 #Commands
